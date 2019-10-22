@@ -1,0 +1,7 @@
+{
+  "require": {
+    "rmccue/requests": "^1.0",
+    "ext-dom": "*",
+    "ext-libxml": "*"
+  }
+}
